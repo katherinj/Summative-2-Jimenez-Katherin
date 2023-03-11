@@ -6,7 +6,7 @@ Submitted by: **Katherin Jimenez**
 For this project, I worked with a teammate, Yuanyuan to build a REST API to manage inventory for a bookstore. We also provided support for querying with GraphQL.
 
 ## Video Demonstration: 
-[![Video Demonstration of Summative Project 1](https://youtu.be/69wyyLEcCxA)
+[Video Demonstration of Summative Project 2](https://youtu.be/69wyyLEcCxA)
 
 ## Requirements:
 * [X] Solution must be in an IntelliJ project called Summative-2-Lastname-Firstname.
